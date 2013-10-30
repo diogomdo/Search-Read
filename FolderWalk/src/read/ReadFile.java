@@ -14,7 +14,7 @@ public class ReadFile {
 	
 	public static void main(String[] args) throws IOException{
 		
-		String file_name = "C:/Users/Diogo/Downloads/temp/teste.txt";
+		String file_name = "C:/..";
 		
 		try{
 			ReadFile file = new ReadFile(file_name);
