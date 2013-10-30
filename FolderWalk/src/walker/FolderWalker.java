@@ -8,7 +8,7 @@ public class FolderWalker
 	{
 	 
 	  // Directory path here
-	  String path = "C:/Users/Diogo/Downloads/temp"; 
+	  String path = "C:/.."; 
 	 
 	  String files;
 	  File folder = new File(path);
